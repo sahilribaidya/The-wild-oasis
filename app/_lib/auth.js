@@ -34,6 +34,7 @@ const authConfig = {
     signIn: "/login",
   },
 };
+
 export const {
   auth,
   signIn,
